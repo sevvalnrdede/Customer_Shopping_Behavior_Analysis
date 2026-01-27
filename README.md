@@ -11,7 +11,7 @@ Dataset: customer_shopping_behavior.csv
 
 Project Structure & Workflow
 1. Data Cleaning & ETL (Python)
-Using the Customer_ Shopping_Behavior_Analysis.ipynb, the raw data was prepared for the database:
+Using the Python, the raw data was prepared for the database:
 Column Standardization: Fixed inconsistent naming conventions and stripped whitespace for SQL compatibility.
 Null Handling: Analyzed and treated missing values in critical columns like Review Rating.
 Automated Loading: Utilized SQLAlchemy to automate the data transfer from a Pandas DataFrame directly into an MS SQL Server table named customer.
