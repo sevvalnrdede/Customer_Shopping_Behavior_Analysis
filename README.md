@@ -4,6 +4,8 @@ Project Overview
 This project focuses on analyzing retail customer data to uncover shopping patterns, evaluate marketing efficiency (discounts/subscriptions), and visualize key performance indicators (KPIs). The workflow involves a full ETL process using Python, deep-dive statistical analysis using MS SQL Server, and interactive reporting via Power BI.
 
 
+
+
 Tech Stack
 
 Data Processing: Python (Pandas, SQLAlchemy)
